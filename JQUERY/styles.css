@@ -1,0 +1,9 @@
+#btn-id {
+  background-color: rgb(86, 156, 202);
+  display: inline-block;
+  text-align: center;
+}
+
+#hover-div {
+  background-color: rgb(228, 4, 4);
+}
